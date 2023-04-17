@@ -19,6 +19,11 @@ Este é um jogo simples de mata-mosquitos criado com JavaScript. O objetivo do j
 - Cada mosquito não morto você perde 1 coração.
 O jogo termina após 15 segundos.
 
+## Tecnologias utilizadas
+- HTML
+- CSS
+- JavaScript
+
 ## Contribuindo com o desenvolvimento do game
 Este repositório é aberto à contribuição da comunidade. Se você é desenvolvedor, designer ou tem conhecimentos e deseja contribuir com o desenvolvimento e manutenção do game, fique à vontade para enviar pull requests. Obrigado por jogar!
 
